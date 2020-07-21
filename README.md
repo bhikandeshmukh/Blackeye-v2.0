@@ -7,7 +7,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 
-## BLACKEYE v1.2
+## BLACKEYE v2.0
 ### UPDATES :
 ##### Added 2 new websites : iCloud ID , Wi-Fi phisher
 ##### Updated Google Account website
