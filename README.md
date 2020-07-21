@@ -1,4 +1,4 @@
-## BLACKEYE v1.5
+## BLACKEYE v2.0
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
@@ -38,7 +38,7 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thebhikandeshmukh/blackeye
+git clone https://github.com/thebhikandeshmukh/blackeye-2.0
 cd blackeye
 bash blackeye.sh
 ```
