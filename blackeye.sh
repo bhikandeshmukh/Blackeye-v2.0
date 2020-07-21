@@ -211,14 +211,13 @@ fi
 
 banner() {
 
-printf "     \e[101m\e[1;77m::  █▀▄ █░░ ▄▀▄ ▄▀ █░▄▀ █▀▀ ▀▄░▄▀ █▀▀
- █▀█ █░▄ █▀█ █░ █▀▄░ █▀▀ ░░█░░ █▀▀
- ▀▀░ ▀▀▀ ▀░▀ ░▀ ▀░▀▀ ▀▀▀ ░░▀░░ ▀▀▀                                                  ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                    🅱🅻🅰🅲🅺🅴🆈🅴 2.0                      ::\e[0m\n"
+printf "\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by BlackEye.  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::     BLACKEYE v1.5! By @thebhikandeshmukh                  ::\e[0m\n"
+printf "     \e[101m\e[1;77m::          Follow on Instagram @thebhikandeshmukh           ::\e[0m\n"
 printf "\n"
 }
 
